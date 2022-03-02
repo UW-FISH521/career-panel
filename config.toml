@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = ""
 languageCode = "en-AU"
-title = "SAFS GSS Panel"
+title = "FISH 521 Career Panel"
 
 # Metadata
 [params]

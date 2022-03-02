@@ -13,7 +13,7 @@ title = "SAFS GSS Panel"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "An introduction to non-academic careers in environmental science"
-  description = "30<sup>th</sup> Annual Graduate Student Symposium<br>UW School of Aquatic and Fishery Sciences"
+  description = "FISH 521 - Winter Quarter 2022"
 
 # Navigation section
 [params.nav]
@@ -52,14 +52,14 @@ title = "SAFS GSS Panel"
     name = "format"
     title = "Format"
     subtitle = ""
-    description = "<p>Each panelist will be given 6 minutes to describe her background and the nature of her current position, including its pros and cons. Panelists are also allowed one slide that exemplifies \"a day in the life\". Afterward, we will have a moderated Q&A session with audience members.</p>"
+    description = "<p>Each panelist will be given 10 minutes to describe her background and the nature of her current position, including its pros and cons. Afterward, we will have a moderated Q&A session with audience members.</p>"
 
   [[params.mission.item]]
     weight = 3
     name = "timing"
     title = "Date & time"
     subtitle = ""
-    description = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> Rm 207 Anderson Hall<p>The panel discussion will occur during the midday break from oral presentations. Please note that lunch will be provided for panel members and those SAFS grad students who registered for the event. Others are welcome to attend as well, space permitting.</p>"
+    description = "<b>Date:</b> March 7, 2022<br><b>Time:</b> 2:30-4:30<br><b>Location:</b> Rm 203 Fishery Sciences<p>The panel discussion will occur during the midday break from oral presentations. Please note that lunch will be provided for panel members and those SAFS grad students who registered for the event. Others are welcome to attend as well, space permitting.</p>"
 
 # Team section
 [params.team]
@@ -108,24 +108,13 @@ title = "SAFS GSS Panel"
     website = "http://hydra3.sound-data.com/about/"
 
   [[params.team.item]]
-    name = "Dr. Melissa Poe"
-    position = "Washington Sea Grant"
-    description = "Dr. Poe leads the social science program at Washington Sea Grant. She works with communities to address the social and cultural dimensions of Pacific Northwest marine ecosystems with a current focus on ocean change, food systems, and integrating local and indigenous knowledge in ecosystem-based management. Melissa received her PhD in Environmental Anthropology from the University of Washington."
-    img = "images/melissa.jpg"
-    email = "mpoe@uw.edu"
-    twitter = "https://twitter.com/mpoetree"
-    linkedin = "https://www.linkedin.com/in/melissa-r-poe-033aaa2b/"
-    website = "https://wsg.washington.edu/about-wsg/staff-dir/melissa-poe/"
-
-  [[params.team.item]]
-    name = "Dr. Beth Sanderson"
-    position = "National Marine Fisheries Service"
-    description = "Dr. Sanderson leads the Ecosystem Analysis Program at the Northwest Fisheries Science Center, where she oversees a variety of research projects related to the conservation of threatened and endangered species, effects of non-native species, and use of shellfish aquaculture sites by marine fauna. Beth received her PhD in Zoology from the University of Wisconsin-Madison."
-    img = "images/beth.jpg"
-    email = "beth.sanderson@noaa.gov"
-    twitter = "https://twitter.com/SandersonBeth"
-    linkedin = "https://www.linkedin.com/in/beth-sanderson-90305a95/"
-    website = "https://www.nwfsc.noaa.gov/contact/display_staffprofile.cfm?staffid=540"
+    name = "Dr. Lauren Rogers"
+    position = "NOAA Fisheries"
+    description = "Dr. Rogers is a quantitative ecologist at NOAA’s Alaska Fisheries Science Center where she leads research on early life stages of fishes in support of ecosystem-based fisheries management in Alaska. Her projects focus on understanding the impacts of climate change on fish in the Gulf of Alaska, Bering Sea, and Arctic, and incorporating that information into the fisheries management process. Lauren was previously a fisheries ecologist at the Natural Capital Project and a post-doctoral fellow at the University of Oslo, Norway. Lauren received her Ph.D. in Aquatic & Fishery Sciences from the University of Washington."
+    img = "images/lauren.jpeg"
+    email = "lauren.rogers@noaa.gov"
+    twitter = "https://twitter.com/lauren_a_rogers"
+    website = "https://www.ecofoci.noaa.gov/scientist/dr-lauren-rogers"
 
   [[params.team.item]]
     name = "Dr. Amanda Stanley"
@@ -151,7 +140,7 @@ title = "SAFS GSS Panel"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2019 Mark Scheuerell <br> <a href='https://github.com/mdscheuerell/safs_gss/' target='_blank'>Design</a> based upon the Hugo Icon theme by <a href='https://github.com/SteveLane/' target='_blank'>Steve Lane</a></small></p>"
+  note = "<p><small>&copy; 2022 Mark Scheuerell <br> <a href='https://github.com/UW-FISH521/career-panel' target='_blank'>Design</a> based upon the Hugo Icon theme by <a href='https://github.com/SteveLane/' target='_blank'>Steve Lane</a></small></p>"
   #github = "#"
   #twitter = "#"
   #facebook = "#"

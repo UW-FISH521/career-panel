@@ -12,7 +12,7 @@ title = "FISH 521 Career Panel"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "An introduction to non-academic careers in environmental science"
+  title = "A panel discussion on non-academic careers in environmental science"
   description = "FISH 521 - Winter Quarter 2022"
 
 # Navigation section

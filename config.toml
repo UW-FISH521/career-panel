@@ -43,7 +43,7 @@ title = "FISH 521 Career Panel"
   [[params.mission.item]]
     weight = 1
     name = "background"
-    title = "background"
+    title = "Background"
     subtitle = ""
     description = "<p>We recognize that it can be difficult for graduate students to navigate the various career options available to scientists with advanced degrees in the environmental sciences. Due to the very nature of academic environments, most students have a pretty good idea of what it’s like to be a professor by the time they graduate, but relatively few students have an equal appreciation for the array of alternative career possibilities. Furthermore, although academic careers continue to be a preferred path for some individuals, those jobs are increasingly rare and extremely competitive, and hence more graduates are pursuing non-academic careers. This panel discussion is therefore intended to introduce graduate students to the spectrum of non-academic career options in environmental science, and highlight their importance to society at large."
 
@@ -59,7 +59,7 @@ title = "FISH 521 Career Panel"
     name = "timing"
     title = "Date & time"
     subtitle = ""
-    description = "<b>Date:</b> March 7, 2022<br><b>Time:</b> 2:30-4:30<br><b>Location:</b> Rm 203 Fishery Sciences<p>The panel discussion will occur during the midday break from oral presentations. Please note that lunch will be provided for panel members and those SAFS grad students who registered for the event. Others are welcome to attend as well, space permitting.</p>"
+    description = "<b>Date:</b> March 7, 2022<br><b>Time:</b> 2:30-4:30<br><b>Location:</b> Rm 203 Fishery Sciences"
 
 # Team section
 [params.team]
